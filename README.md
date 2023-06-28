@@ -59,3 +59,4 @@ $ git rebase -i HEAD~
 12.Pull từ remote repository:
 $ git pull origin master
 -Lệnh trên sẽ gộp những thay đổi mới kéo về từ máy chủ từ xa với nhánh hiện tại trên máy local.
+ 
